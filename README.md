@@ -11,6 +11,11 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 
 - [JavaScript Basics](slides/1-01-javascript-basics.pdf)
 - [JavaScript Objects and Functions](slides/1-02-javascript-objects-functions.pdf)
+- [JavaScript Callbacks and Functional Programming](slides/1-03-javascript-callbacks-functional-programming.pdf)
+- [JavaScript Package for dates](slides/1-04-javascript-package-date.pdf)
+- [JavaScript this Keyword](slides/1-05-javascript-this.pdf)
+- [JavaScript Libraries and Packages](slides/1-06-javascript-libraries-packages.pdf)
+- [JavaScript Asynchronous Programming](slides/1-07-javascript-async-programming.pdf)
 - ...
 
 ### Web Servers and server-side APIs
