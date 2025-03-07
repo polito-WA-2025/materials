@@ -20,6 +20,9 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 
 ### Web Servers and server-side APIs
 
+- [Web architecture](slides/4-01-web-architecture.pdf)
+- [Express.js](4-02-Express.pdf)
+- [HTTP APIs](https://github.com/polito-WA-2025/materials/blob/main/slides/4-03-API.pdf) 
 - ...
  
 ### Browsers and client-side applications
@@ -37,5 +40,6 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 ## Laboratories (solutions [here](https://github.com/polito-WA-2025/labs-code))
 
 - Lab 1: [Getting Started with Node.js](labs/lab01-getting-started-node.pdf)
+- Lab 2: [Node.js with database](labs/lab02-node-database.pdf)
 - ...
 
