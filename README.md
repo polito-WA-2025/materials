@@ -21,12 +21,16 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 ### Web Servers and server-side APIs
 
 - [Web architecture](slides/4-01-web-architecture.pdf)
-- [Express.js](4-02-Express.pdf)
-- [HTTP APIs](https://github.com/polito-WA-2025/materials/blob/main/slides/4-03-API.pdf) 
+- [Express.js](slides/4-02-Express.pdf)
+- [HTTP APIs](slides/4-03-API.pdf) 
 - ...
  
 ### Browsers and client-side applications
 
+- [Introduction to modern browsers](slides/2-01-browser-intro.pdf)
+- [Modern HTML](slides/2-02-html.pdf)
+- [Modern CSS, Flex, Bootstrap](slides/2-03-css.pdf)
+- [JS in the browser: DOM, forms, events](slides/2-04-JS-browser.pdf)
 - ...
 
 ### React
