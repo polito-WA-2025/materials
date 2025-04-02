@@ -16,7 +16,7 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - [JavaScript this Keyword](slides/1-05-javascript-this.pdf)
 - [JavaScript Libraries and Packages](slides/1-06-javascript-libraries-packages.pdf)
 - [JavaScript Asynchronous Programming](slides/1-07-javascript-async-programming.pdf)
-- ...
+- [JavaScript Modules](slides/1-08-javascript-modules.pdf)
 
 ### Web Servers and server-side APIs
 
@@ -31,6 +31,8 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - [Modern HTML](slides/2-02-html.pdf)
 - [Modern CSS, Flex, Bootstrap](slides/2-03-css.pdf)
 - [JS in the browser: DOM, forms, events](slides/2-04-JS-browser.pdf)
+- ...
+- [Fetch API](slides/2-06-fetch.pdf)
 - ...
 
 ### React
