@@ -53,5 +53,6 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - Lab 4: [API security](labs/lab04-API-server.pdf)
 - Lab 5: [HTML, CSS](labs/lab05-html-css.pdf)
 - Lab 6: [JS in browser](labs/lab06-js-browser.pdf)
+- Lab 7: [Restructure app using React](labs/lab07-getting-started-react.pdf)
 - ...
 
