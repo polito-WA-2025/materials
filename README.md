@@ -37,6 +37,8 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 
 ### React
 
+- [React introduction](slides/3-01-React-intro.pdf)
+- [React elements and JSX](slides/3-02-Elements-and-JSX.pdf)
 - ...  
 
 ## Exercises and examples in class
