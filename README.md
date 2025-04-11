@@ -33,7 +33,6 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - [JS in the browser: DOM, forms, events](slides/2-04-JS-browser.pdf)
 - [JS browser security: Cross-Site Scripting (XSS)](slides/2-05-browser-security-XSS.pdf)
 - [Fetch API](slides/2-06-fetch.pdf)
-- ...
 
 ### React
 
