@@ -57,5 +57,6 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - Lab 6: [JS in browser](labs/lab06-js-browser.pdf)
 - Lab 7: [Restructure app using React](labs/lab07-getting-started-react.pdf)
 - Lab 8: [React state](labs/lab08-react-state.pdf)
+- Lab 9: [React forms](labs/lab09-forms.pdf)
 - ...
 
