@@ -41,6 +41,7 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - [React state](slides/3-03-Components-and-state-management.pdf)
 - [React forms](slides/3-04-Forms.pdf)
 - [React context](slides/3-05-Context.pdf)
+- [React router](slides/3-06-React-Router.pdf)
 - ...  
 
 ## Exercises and examples in class
