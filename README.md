@@ -22,7 +22,8 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 
 - [Web architecture](slides/4-01-web-architecture.pdf)
 - [Express.js](slides/4-02-Express.pdf)
-- [HTTP APIs](slides/4-03-API.pdf) 
+- [HTTP APIs](slides/4-03-API.pdf)
+- [CORS](slides/4-05-CORS_and_security.pdf)
 - ...
  
 ### Browsers and client-side applications
@@ -42,6 +43,7 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - [React forms](slides/3-04-Forms.pdf)
 - [React context](slides/3-05-Context.pdf)
 - [React router](slides/3-06-React-Router.pdf)
+- [React lifecycle](slides/3-07-LifeCycle.pdf)
 - ...  
 
 ## Exercises and examples in class
@@ -60,5 +62,6 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - Lab 8: [React state](labs/lab08-react-state.pdf)
 - Lab 9: [React forms](labs/lab09-forms.pdf)
 - Lab 10: [React router](labs/lab10-router.pdf)
+- Lab 11: [Loading data from server](labs/lab11-loading-data-from-server.pdf)
 - ...
 
