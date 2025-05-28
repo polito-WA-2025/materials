@@ -27,7 +27,7 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - [CORS](slides/4-05-CORS_and_security.pdf)
 - [Authentication](slides/4-06-Authentication.pdf)
 - [MFA and TOTP](slides/4-07-MFA-TOTP.pdf)
-- ...
+- [Auth security issues](slides/4-08-Auth-security.pdf)
  
 ### Browsers and client-side applications
 
@@ -67,5 +67,5 @@ Material for the course _Web Applications_ (in English) for the Master Degree in
 - Lab 11: [Loading data from server](labs/lab11-loading-data-from-server.pdf)
 - Lab 12: [Complete client-server interaction](labs/lab12-complete-client-server.pdf)
 - Lab 13: [Authentication](labs/lab13-authentication.pdf)
-- ...
+- Lab 14: [MFA with TOTP](labs/lab14-otp.pdf)
 
